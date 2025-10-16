@@ -1,0 +1,7 @@
+sensor_id,timestamp,temperature,humidity,status
+sensor_1,1760627011,39.45,44.73,WARN
+sensor_2,1760627012,30.96,55.41,FAIL
+sensor_3,1760627012,27.97,72.40,OK
+sensor_4,1760627013,33.23,73.12,FAIL
+sensor_5,1760627013,38.17,45.46,OK
+sensor_6,1894546464,39.64,48.3,WARN
